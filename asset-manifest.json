@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://naira-ge.github.io/csb-dezkn/static/css/main.84a60a3c.chunk.css",
+    "main.js": "https://naira-ge.github.io/csb-dezkn/static/js/main.d1e73299.chunk.js",
+    "main.js.map": "https://naira-ge.github.io/csb-dezkn/static/js/main.d1e73299.chunk.js.map",
+    "runtime-main.js": "https://naira-ge.github.io/csb-dezkn/static/js/runtime-main.cfc881b2.js",
+    "runtime-main.js.map": "https://naira-ge.github.io/csb-dezkn/static/js/runtime-main.cfc881b2.js.map",
+    "static/js/2.1e765dbe.chunk.js": "https://naira-ge.github.io/csb-dezkn/static/js/2.1e765dbe.chunk.js",
+    "static/js/2.1e765dbe.chunk.js.map": "https://naira-ge.github.io/csb-dezkn/static/js/2.1e765dbe.chunk.js.map",
+    "index.html": "https://naira-ge.github.io/csb-dezkn/index.html",
+    "static/css/main.84a60a3c.chunk.css.map": "https://naira-ge.github.io/csb-dezkn/static/css/main.84a60a3c.chunk.css.map",
+    "static/js/2.1e765dbe.chunk.js.LICENSE.txt": "https://naira-ge.github.io/csb-dezkn/static/js/2.1e765dbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfc881b2.js",
+    "static/js/2.1e765dbe.chunk.js",
+    "static/css/main.84a60a3c.chunk.css",
+    "static/js/main.d1e73299.chunk.js"
+  ]
+}
